@@ -95,3 +95,13 @@ git config --global user.email suharevanasta22@gmail.com
 git cinfig --global user.name "Nastya.S.A"
 git config --global user.name "Nastya.S.A"
 git add
+git add .
+git commit -m "first page"
+git push origin master 
+mkdir week1
+cd week1
+cd ../
+git remote add origin https://github.com/suhareva03/suhareva03.github.io.git
+git config --global user.email suharevanasta22@gmail.com
+git config --global user.name "Suhareva.A.A"
+git status
