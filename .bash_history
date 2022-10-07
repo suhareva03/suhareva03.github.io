@@ -105,3 +105,10 @@ git remote add origin https://github.com/suhareva03/suhareva03.github.io.git
 git config --global user.email suharevanasta22@gmail.com
 git config --global user.name "Suhareva.A.A"
 git status
+git add .
+git commit -m "first page"
+git push origin master
+git remote add origin https://github.com/suhareva03/suhareva03.github.io.git
+git config --global user.email suharevanasta22@gmail.com
+git config --global user.name "Suhareva.A.A"
+git status

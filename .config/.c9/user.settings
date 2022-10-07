@@ -35,6 +35,9 @@
         }
     },
     "terminal": {
-        "@scrollback": 2000
+        "@scrollback": 2000,
+        "noclosequestion": {
+            "json()": "true"
+        }
     }
 }
