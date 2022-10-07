@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.zin.ru	0	1	1664004442	31536000
+wallup.net	0	0	1664089184	7776000
+www.film.ru	0	1	1664081095	63072000
